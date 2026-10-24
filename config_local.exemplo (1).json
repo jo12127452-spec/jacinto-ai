@@ -1,0 +1,18 @@
+{
+  "nome_usuario": "SeuNome",
+  "seu_email": "seu@email.com",
+  "sobre_criador": "SOBRE VOCÊ: você foi criado por SeuNome. (Escreva aqui a história que o Jacinto deve contar quando perguntarem quem o criou.)",
+  "usuarios_conhecidos": {
+    "familiar@email.com": {
+      "nome": "Nome",
+      "contexto": "Você está falando com Nome, familiar de SeuNome. Trate com carinho.",
+      "extra": "Se perguntar quem criou a IA, diga que foi SeuNome."
+    }
+  },
+  "codigo_acesso": "",
+  "permitir_executar_codigo": false,
+  "smtp_usuario": "",
+  "smtp_senha": "",
+  "smtp_host": "smtp.gmail.com",
+  "smtp_porta": 465
+}
