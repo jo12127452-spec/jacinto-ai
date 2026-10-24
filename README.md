@@ -19,7 +19,7 @@ Assistente de IA **100% local**: roda no seu computador com o [Ollama](https://o
 
 ## Instalação
 ```bash
-git clone https://github.com/SEU_USUARIO/jacinto-ai.git
+git clone https://github.com/jo12127452-spec/jacinto-ai.git
 cd jacinto-ai
 pip install -r requirements.txt
 
