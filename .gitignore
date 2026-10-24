@@ -1,0 +1,4 @@
+  __pycache__/
+  dados_jacinto/
+  config_local.json
+  .env
